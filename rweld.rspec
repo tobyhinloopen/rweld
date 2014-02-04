@@ -1,8 +1,8 @@
 Gem::Specification.new do |s|
   s.name        = 'rweld'
   s.version     = '0.0.1'
-  s.summary     = "HTML templating with clean HTML files"
-  s.description = "HTML templating with clean HTML files"
+  s.summary     = "HTML templating without garbage"
+  s.description = "HTML templating without garbage"
   s.authors     = ["Toby Hinloopen"]
   s.email       = 'toby@kutcomputers.nl'
   s.files         = `git ls-files`.split("\n")
